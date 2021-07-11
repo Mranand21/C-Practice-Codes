@@ -1,2 +1,2 @@
-# C-Practice-Codes
+# C#-Practice-Codes
 CSharp
